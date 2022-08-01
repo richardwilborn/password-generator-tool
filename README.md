@@ -1,5 +1,8 @@
 # password-generator-tool
-The Password-Generator-Tool helps users come up with a password by answering a few questions about their password requirements.
+The password-generator-tool helps users come up with a password by answering a few questions about their password requirements.
+
+## Deployment Link
+https://richardwilborn.github.io/password-generator-tool/
 
 ## Screenshots
 <img width="898" alt="Screenshot 2022-07-31 at 10 21 08 PM" src="https://user-images.githubusercontent.com/45742979/182066105-23fea0d1-771d-4042-aee5-ef5474153c29.png">
