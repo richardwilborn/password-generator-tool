@@ -1,2 +1,2 @@
 # password-generator-tool
-<iframe src="https://drive.google.com/file/d/1PQyzbd9L2Np79__XQSCUBgP1E5xQOxJm/preview" width="640" height="480"></iframe>
+[Untitled_ Jul 31, 2022 10_01 PM (1).webm](https://user-images.githubusercontent.com/45742979/182064162-9f0dd3ef-cfae-4bb6-965b-ef6d406c3718.webm)
